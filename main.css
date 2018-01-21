@@ -1,6 +1,7 @@
 /* [START: main.css]
 /* Layout (Torrents page) */
-/* MASTER*/
+/* MASTER */
+/* DB_Silver */ 
 
 
 #lolgo {
@@ -1429,7 +1430,7 @@ table.forum_post td {
 }
 
 table.forum_unread {
-    border: 2px solid #bab98a;
+    border: 2px solid  #C0C0C0;
 }
 
 blockquote {
@@ -1446,13 +1447,13 @@ tr.unreadpm {
 
 .center_poll {
     background: #fc4c00;
-    background: -moz-linear-gradient(top, #9e9475 0%, #e0e0e0 50%, #e0e0e0 51%, #9e9475 100%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #9e9475), color-stop(50%, #e0e0e0), color-stop(51%, #e0e0e0), color-stop(100%, #9e9475));
-    background: -webkit-linear-gradient(top, #9e9475 0%, #e0e0e0 50%, #e0e0e0 51%, #9e9475 100%);
-    background: -o-linear-gradient(top, #9e9475 0%, #e0e0e0 50%, #e0e0e0 51%, #9e9475 100%);
-    background: -ms-linear-gradient(top, #9e9475 0%, #e0e0e0 50%, #e0e0e0 51%, #9e9475 100%);
-    background: linear-gradient(to bottom, #9e9475 0%, #e0e0e0 50%, #e0e0e0 51%, #9e9475 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e0e0e0', endColorstr='#9e9475', GradientType=0);
+    background: -moz-linear-gradient(top, #949494 0%, #e0e0e0 50%, #e0e0e0 51%, #949494 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #949494), color-stop(50%, #e0e0e0), color-stop(51%, #e0e0e0), color-stop(100%, #949494));
+    background: -webkit-linear-gradient(top, #949494 0%, #e0e0e0 50%, #e0e0e0 51%, #949494 100%);
+    background: -o-linear-gradient(top, #949494 0%, #e0e0e0 50%, #e0e0e0 51%, #949494 100%);
+    background: -ms-linear-gradient(top, #949494 0%, #e0e0e0 50%, #e0e0e0 51%, #949494 100%);
+    background: linear-gradient(to bottom, #949494 0%, #e0e0e0 50%, #e0e0e0 51%, #949494 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e0e0e0', endColorstr='#949494', GradientType=0);
     border-radius: 2px;
     box-shadow: 0 0 1px #111;
 }
@@ -1684,7 +1685,7 @@ tr.unreadpm {
 }
 
 #nav_donate > a > span {
-    color: #e6d6bc !important;
+    color: #fff !important;
     transition: color 0.2s ease;
 }
 
