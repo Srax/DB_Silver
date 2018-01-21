@@ -687,7 +687,7 @@ td.colhead,
 }
 
 .colheadmenuactive a {
-    color: #e6d6bc;
+    color: #fff;
 }
 
 .colheadmenuactive a:hover {
@@ -907,7 +907,7 @@ ul.poll li.graph {
 }
 
 .searchtable .selected a div {
-    color: #e6d6bc;
+    color: #fff;
     text-decoration: underline;
     font-weight: bold;
 }
