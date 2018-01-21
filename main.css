@@ -1,9 +1,6 @@
 /* [START: main.css]
 /* Layout (Torrents page) */
-/* THIS IS THE DEVELOPER BRANCH!!!!! */
-/* Adding this CSS to DB is at your own risk */
-/* I would prefer you use the MASTER BANCH CSS*/
-/* Lucky Sevens 777+ */
+/* MASTER*/
 
 
 #lolgo {
@@ -85,7 +82,7 @@ body {
 a {
     text-decoration: none;
     border: none;
-    color: #c4b998;
+    color: #e0e0e0;
     transition: color 0.2s ease;
 }
 
@@ -100,7 +97,7 @@ h2,
 h3,
 h4 {
     margin: 5px 0px;
-    color: #c4b998;
+    color: #e0e0e0;
     font-weight: bold;
 }
 
@@ -125,7 +122,7 @@ li {
 }
 
 input,
-button {padding-top: 4px;background: #2c2c2c;border: 1px solid #C0C0C0;padding-left: 6px;padding-bottom: 4px;padding-right: 6px;transition: 0.2s ease;margin-right: 4px;color: #c4b998;/* font: normal 14px/1.3em Roboto, 'Helvetica Neue', Tahoma, sans-serif; */transition: 0.2s ease;font-weight: bold;outline: none;}
+button {padding-top: 4px;background: #2c2c2c;border: 1px solid #C0C0C0;padding-left: 6px;padding-bottom: 4px;padding-right: 6px;transition: 0.2s ease;margin-right: 4px;color: #e0e0e0;/* font: normal 14px/1.3em Roboto, 'Helvetica Neue', Tahoma, sans-serif; */transition: 0.2s ease;font-weight: bold;outline: none;}
 
 input:hover {
     color: white;
@@ -313,7 +310,7 @@ ul.thin li {
 }
 
 #menu ul li a {
-    color: #c4b998;
+    color: #e0e0e0;
     text-shadow: 1px 1px 0 #000;
     transition: color 0.2s ease;
     text-transform: uppercase;
@@ -346,7 +343,7 @@ ul.thin li {
     padding: 2px 2px 2px 2px;
     text-align: center;
     border: 1px solid #C0C0C0;
-    color: #c4b998;
+    color: #e0e0e0;
 }
 
 #searchbars ul li {
@@ -421,7 +418,7 @@ ul.thin li {
 }
 
 .alertbar a font {
-    color: #c4b998;
+    color: #e0e0e0;
     !important;
     text-shadow: 1px 1px 0 black;
     transition: color 0.2s ease;
@@ -431,7 +428,7 @@ ul.thin li {
     padding: 0px;
     margin: 0px;
     display: inline;
-    color: #c4b998;
+    color: #e0e0e0;
 }
 
 .alertbar a:hover font {
@@ -675,7 +672,7 @@ td.colhead,
 }
 
 .colheadmenu a:hover {
-    /*color: #c4b998;*/
+    /*color: #e0e0e0;*/
 }
 
 .colheadmenuspace {
@@ -714,7 +711,7 @@ td.colhead,
 .pagination > .active > span:hover {
     z-index: 0;
     font-weight: bold;
-    color: #c4b998;
+    color: #e0e0e0;
     font-size: 10pt;
     cursor: hand;
     background-color: #2C2C2C;
@@ -725,7 +722,7 @@ td.colhead,
     font-weight: bold;
     font-size: 10pt;
     background-color: #262626;
-    color: #c4b998;
+    color: #e0e0e0;
     border-color: #151515;
 }
 
@@ -1383,7 +1380,7 @@ td.label {
 }
 
 .torrent_table tr a b {
-    color: #c4b998;
+    color: #e0e0e0;
 }
 
 /*.sticky, tr.sticky {
@@ -1449,13 +1446,13 @@ tr.unreadpm {
 
 .center_poll {
     background: #fc4c00;
-    background: -moz-linear-gradient(top, #9e9475 0%, #c4b998 50%, #c4b998 51%, #9e9475 100%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #9e9475), color-stop(50%, #c4b998), color-stop(51%, #c4b998), color-stop(100%, #9e9475));
-    background: -webkit-linear-gradient(top, #9e9475 0%, #c4b998 50%, #c4b998 51%, #9e9475 100%);
-    background: -o-linear-gradient(top, #9e9475 0%, #c4b998 50%, #c4b998 51%, #9e9475 100%);
-    background: -ms-linear-gradient(top, #9e9475 0%, #c4b998 50%, #c4b998 51%, #9e9475 100%);
-    background: linear-gradient(to bottom, #9e9475 0%, #c4b998 50%, #c4b998 51%, #9e9475 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c4b998', endColorstr='#9e9475', GradientType=0);
+    background: -moz-linear-gradient(top, #9e9475 0%, #e0e0e0 50%, #e0e0e0 51%, #9e9475 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #9e9475), color-stop(50%, #e0e0e0), color-stop(51%, #e0e0e0), color-stop(100%, #9e9475));
+    background: -webkit-linear-gradient(top, #9e9475 0%, #e0e0e0 50%, #e0e0e0 51%, #9e9475 100%);
+    background: -o-linear-gradient(top, #9e9475 0%, #e0e0e0 50%, #e0e0e0 51%, #9e9475 100%);
+    background: -ms-linear-gradient(top, #9e9475 0%, #e0e0e0 50%, #e0e0e0 51%, #9e9475 100%);
+    background: linear-gradient(to bottom, #9e9475 0%, #e0e0e0 50%, #e0e0e0 51%, #9e9475 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e0e0e0', endColorstr='#9e9475', GradientType=0);
     border-radius: 2px;
     box-shadow: 0 0 1px #111;
 }
@@ -1591,7 +1588,7 @@ tr.unreadpm {
     line-height: 20px;
     vertical-align: middle;
     float: left;
-    color: #c4b998;
+    color: #e0e0e0;
     margin: 0 2px 0 2px;
 }
 
@@ -1702,7 +1699,7 @@ tr.unreadpm {
 #forums .forum_list .last_topic strong a,
 #forums .thinforum .colhead_dark strong a,
 #top10 table strong a {
-    color: #c4b998;
+    color: #e0e0e0;
 }
 
 #forums .forum_index h4 a:hover,
@@ -1765,7 +1762,7 @@ tr.unreadpm {
 }
 
 #request_table a {
-    color: #c4b998;
+    color: #e0e0e0;
     transition: color 0.2s ease;
 }
 
@@ -1837,7 +1834,7 @@ td[style="background-color: black;border:none;"] {
 
 .labelop {
     color: #000;
-    background-color: #c4b998;
+    background-color: #e0e0e0;
 }
 
 
@@ -1865,7 +1862,7 @@ td[style="background-color: black;border:none;"] {
     padding-right: 6px;
     transition: 0.2s ease;
     margin-right: 4px;
-    color: #c4b998;
+    color: #e0e0e0;
     transition: 0.2s ease;
     font-weight: bold;
     text-align: center;
