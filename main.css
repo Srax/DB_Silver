@@ -125,7 +125,7 @@ li {
 }
 
 input,
-button {padding-top: 4px;background: #2c2c2c;border: 1px solid #937341;padding-left: 6px;padding-bottom: 4px;padding-right: 6px;transition: 0.2s ease;margin-right: 4px;color: #c4b998;/* font: normal 14px/1.3em Roboto, 'Helvetica Neue', Tahoma, sans-serif; */transition: 0.2s ease;font-weight: bold;outline: none;}
+button {padding-top: 4px;background: #2c2c2c;border: 1px solid #C0C0C0;padding-left: 6px;padding-bottom: 4px;padding-right: 6px;transition: 0.2s ease;margin-right: 4px;color: #c4b998;/* font: normal 14px/1.3em Roboto, 'Helvetica Neue', Tahoma, sans-serif; */transition: 0.2s ease;font-weight: bold;outline: none;}
 
 input:hover {
     color: white;
@@ -302,8 +302,8 @@ ul.thin li {
     font: 14px/40px Tahoma, Verdana, sans-serif;
 
     box-shadow: 0 0 20px 10px rgba(0, 0, 0, .4);
-    border-top: 1px solid #937341;
-    border-bottom: 1px solid #937341;
+    border-top: 1px solid #C0C0C0;
+    border-bottom: 1px solid #C0C0C0;
 }
 
 #menu ul li {
@@ -345,7 +345,7 @@ ul.thin li {
     position: relative;
     padding: 2px 2px 2px 2px;
     text-align: center;
-    border: 1px solid #937341;
+    border: 1px solid #C0C0C0;
     color: #c4b998;
 }
 
@@ -409,7 +409,7 @@ ul.thin li {
     margin: 0px auto 0px auto;
     box-shadow: 0 0 5px #1a1a1a;
     background: #222222;
-    border: 1px solid #937341;
+    border: 1px solid #C0C0C0;
     border-radius: 4px;
 }
 
@@ -743,7 +743,7 @@ td.colhead,
 .colheadmenuopret a {
     padding-top: 6px;
     background: #2c2c2c;
-    border: 1px solid #937341;
+    border: 1px solid #C0C0C0;
     padding-left: 8px;
     padding-bottom: 6px;
     padding-right: 8px;
@@ -1251,8 +1251,8 @@ span.powerleech {
 
 .box {
     background-color: #222222;
-    border-top: 1px solid #937341;
-    border-bottom: 1px solid #937341;
+    border-top: 1px solid #C0C0C0;
+    border-bottom: 1px solid #C0C0C0;
 }
 
 
@@ -1307,7 +1307,7 @@ span.powerleech {
 
 table {
     border-collapse: collapse;
-    /*border: 1px solid #937341;*/
+    /*border: 1px solid #C0C0C0;*/
     border-radius: 4px;
 }
 
@@ -1692,7 +1692,7 @@ tr.unreadpm {
 }
 
 #nav_donate > a:hover > span {
-    color: #937341 !important;
+    color: #C0C0C0 !important;
     transition: color 0.2s ease;
 }
 
@@ -1806,7 +1806,7 @@ td[style="background-color: black;border:none;"] {
 .modbar a:first-child {
     padding: 2px 15px 2px 15px;
     border-radius: 5px;
-    border: 1px solid #937341;
+    border: 1px solid #C0C0C0;
 }
 
 #torrents #searchform {
@@ -1859,7 +1859,7 @@ td[style="background-color: black;border:none;"] {
 .bonus input[type=text] {
     padding-top: 4px;
     background: #2c2c2c;
-    border: 1px solid #937341;
+    border: 1px solid #C0C0C0;
     padding-left: 6px;
     padding-bottom: 4px;
     padding-right: 6px;
